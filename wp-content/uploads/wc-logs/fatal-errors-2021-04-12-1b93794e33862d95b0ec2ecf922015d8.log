@@ -1,0 +1,2 @@
+2021-04-12T10:05:17+00:00 CRITICAL require_once(): Failed opening required '/var/www/vhosts/quatdanaco.com/httpdocs/wp-admin/includes/template.php' (include_path='.:/opt/plesk/php/7.4/share/pear') in /var/www/vhosts/quatdanaco.com/httpdocs/wp-admin/includes/admin.php on line 63
+

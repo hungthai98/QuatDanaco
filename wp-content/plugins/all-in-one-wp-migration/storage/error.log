@@ -1,0 +1,6 @@
+Apr 12 2021 08:05:13
+{"type":2,"message":"is_readable(): open_basedir restriction in effect. File(\/dev\/urandom) is not within the allowed path(s): (\/var\/www\/vhosts\/quatdanaco.com\/:\/tmp\/)","file":"\/var\/www\/vhosts\/quatdanaco.com\/httpdocs\/wp-includes\/class-phpass.php","line":68}
+
+Apr 12 2021 08:05:14
+{"type":2,"message":"is_readable(): open_basedir restriction in effect. File(\/dev\/urandom) is not within the allowed path(s): (\/var\/www\/vhosts\/quatdanaco.com\/:\/tmp\/)","file":"\/var\/www\/vhosts\/quatdanaco.com\/httpdocs\/wp-includes\/class-phpass.php","line":68}
+
